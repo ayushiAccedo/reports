@@ -1,3 +1,6 @@
+REPORT sanity BUILD 6.0.7 24.09  [report22.zip](https://github.com/user-attachments/files/17107676/report22.zip)
+
+
 REPORT REGRESSION BUILD 6.0.7 13.09  [regression report.zip](https://github.com/user-attachments/files/17008628/regression.report.zip)
 
 
